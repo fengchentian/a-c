@@ -14,10 +14,6 @@ public class A {
 		System.out.println(s.toUpperCase());
 		String s1=s.replace('a','A');
 		System.out.println(s1);
-		
-		
-		
-
 	}
 
 }
